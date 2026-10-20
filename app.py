@@ -1,7 +1,7 @@
 import datetime
 import io
 import pandas as pd
-import plotly.express as px
+import plotly.express as py
 import streamlit as st
 import sqlalchemy as sa
 import os
